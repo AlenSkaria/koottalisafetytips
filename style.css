@@ -5,7 +5,11 @@
 }
 .main__container {
   padding: 0 20px;
+
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
 }
+
 .logo {
   display: flex;
   justify-content: center;
